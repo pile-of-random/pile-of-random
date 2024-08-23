@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pile-of-random
+- 👋 Hi, I’m Alan
 - 👀 I’m interested in music (violin) and food
 - 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on \_00_/
